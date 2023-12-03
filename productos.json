@@ -6,7 +6,7 @@
         "categoria": "Antipulgas y garrapatas",
         "precio": 14300,
         "descripcion": "Simparica (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
-        "imagen": "img/simp6.png"
+        "imagen": "/img/simp6.png"
       },
       {
         "codigo": "P002",
@@ -14,7 +14,7 @@
         "categoria": "Antipulgas y garrapatas",
         "precio": 14500,
         "descripcion": "Simparica (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
-        "imagen": "img/simp2.png"
+        "imagen": "/img/simp2.png"
       },
       {
         "codigo": "P003",
