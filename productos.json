@@ -2,50 +2,50 @@
     "productos": [
       {
         "codigo": "P001",
-        "nombre": "Simparica Trio® (Sarolaner, Moxidectina Y Pirantel) Pastilla Masticable Desparasitante Interno Y Externo 1.5 - 2.5 kg",
+        "nombre": "Simparica Trio (Sarolaner, Moxidectina Y Pirantel) Pastilla Masticable Desparasitante Interno Y Externo 1.5 - 2.5 kg",
         "categoria": "Antipulgas y garrapatas",
         "precio": 14300,
-        "descripcion": "Simparica® (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
+        "descripcion": "Simparica (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
         "imagen": "img/simp6"
       },
       {
         "codigo": "P002",
-        "nombre": "Simparica Trio® (Sarolaner, Moxidectina Y Pirantel) Pastilla Masticable Desparasitante Interno Y Externo 2.5-5 kg",
+        "nombre": "Simparica Trio (Sarolaner, Moxidectina Y Pirantel) Pastilla Masticable Desparasitante Interno Y Externo 2.5-5 kg",
         "categoria": "Antipulgas y garrapatas",
         "precio": 14500,
-        "descripcion": "Simparica® (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
+        "descripcion": "Simparica (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
         "imagen": "img/simp2"
       },
       {
         "codigo": "P003",
-        "nombre": "Simparica Trio® (Sarolaner, Moxidectina Y Pirantel) Pastilla Masticable Desparasitante Interno Y Externo 5-10 kg",
+        "nombre": "Simparica Trio (Sarolaner, Moxidectina Y Pirantel) Pastilla Masticable Desparasitante Interno Y Externo 5-10 kg",
         "categoria": "Antipulgas y garrapatas",
         "precio": 16100,
-        "descripcion": "Simparica® (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
+        "descripcion": "Simparica (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
         "imagen": "img/simp7"
       },
       {
         "codigo": "P004",
-        "nombre": "Simparica Trio® (Sarolaner, Moxidectina Y Pirantel) Pastilla Masticable Desparasitante Interno Y Externo 10-20 kg",
+        "nombre": "Simparica Trio (Sarolaner, Moxidectina Y Pirantel) Pastilla Masticable Desparasitante Interno Y Externo 10-20 kg",
         "categoria": "Antipulgas y garrapatas",
         "precio": 18500,
-        "descripcion": "Simparica® (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
+        "descripcion": "Simparica (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
         "imagen": "img/simp1"
       },
       {
         "codigo": "P005",
-        "nombre": "Simparica Trio® (Sarolaner, Moxidectina Y Pirantel) Pastilla Masticable Desparasitante Interno Y Externo 20-40 kg",
+        "nombre": "Simparica Trio (Sarolaner, Moxidectina Y Pirantel) Pastilla Masticable Desparasitante Interno Y Externo 20-40 kg",
         "categoria": "Antipulgas y garrapatas",
         "precio": 19800,
-        "descripcion": "Simparica® (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
+        "descripcion": "Simparica (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
         "imagen": "img/simp3"
       },
       {
         "codigo": "P006",
-        "nombre": "Simparica Trio® (Sarolaner, Moxidectina Y Pirantel) Pastilla Masticable Desparasitante Interno Y Externo 40 - 60 kg",
+        "nombre": "Simparica Trio (Sarolaner, Moxidectina Y Pirantel) Pastilla Masticable Desparasitante Interno Y Externo 40 - 60 kg",
         "categoria": "Antipulgas y garrapatas",
         "precio": 22300,
-        "descripcion": "Simparica® (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
+        "descripcion": "Simparica (sarolaner) es una tableta masticable saborizada, altamente palatable para ser administrada a perros y cachorros de acuerdo con su peso.",
         "imagen": "img/simp5"
       },
       {
@@ -53,7 +53,7 @@
         "nombre": "Pastilla anti pulgas y garrapatas Bravecto 250 Mg 4,5-10 Kg",
         "categoria": "Antipulgas y garrapatas",
         "precio": 31900,
-        "descripcion": "La pastilla Bravecto sirve para el control de infestaciones por garrapatas y pulgas en perros con actividad inmediata y de larga duración durante 12 semanas. Para el tratamiento de la demodicosis causada por Demodex spp., sarna sarcóptica e infestaciones por ácaros Otodectes spp. en perros. El tiempo del efecto es de 12 semanas de protección contra pulgas y garrapatas. Empieza a eliminar pulgas a partir de las 2 horas. Empieza a eliminar garrapatas a partir de las 4 horas.",
+        "descripcion": "La pastilla Bravecto sirve para el control de infestaciones por garrapatas y pulgas en perros con actividad inmediata y de larga duracion durante 12 semanas. Para el tratamiento de la demodicosis causada por Demodex spp., sarna sarcoptica e infestaciones por acaros Otodectes spp. en perros. El tiempo del efecto es de 12 semanas de proteccion contra pulgas y garrapatas. Empieza a eliminar pulgas a partir de las 2 horas. Empieza a eliminar garrapatas a partir de las 4 horas.",
         "imagen": "img/brav1"
       },
       {
@@ -61,7 +61,7 @@
         "nombre": "Pastilla anti pulgas y garrapatas Bravecto 500 Mg 10-20 Kg",
         "categoria": "Antipulgas y garrapatas",
         "precio": 33900,
-        "descripcion": "La pastilla Bravecto sirve para el control de infestaciones por garrapatas y pulgas en perros con actividad inmediata y de larga duración durante 12 semanas. Para el tratamiento de la demodicosis causada por Demodex spp., sarna sarcóptica e infestaciones por ácaros Otodectes spp. en perros. El tiempo del efecto es de 12 semanas de protección contra pulgas y garrapatas. Empieza a eliminar pulgas a partir de las 2 horas. Empieza a eliminar garrapatas a partir de las 4 horas.",
+        "descripcion": "La pastilla Bravecto sirve para el control de infestaciones por garrapatas y pulgas en perros con actividad inmediata y de larga duracion durante 12 semanas. Para el tratamiento de la demodicosis causada por Demodex spp., sarna sarcoptica e infestaciones por acaros Otodectes spp. en perros. El tiempo del efecto es de 12 semanas de proteccion contra pulgas y garrapatas. Empieza a eliminar pulgas a partir de las 2 horas. Empieza a eliminar garrapatas a partir de las 4 horas.",
         "imagen": "img/brav4"
       },
       {
@@ -69,7 +69,7 @@
         "nombre": "Pastilla anti pulgas y garrapatas Bravecto 1000 Mg 20-40 Kg",
         "categoria": "Antipulgas y garrapatas",
         "precio": 36200,
-        "descripcion": "La pastilla Bravecto sirve para el control de infestaciones por garrapatas y pulgas en perros con actividad inmediata y de larga duración durante 12 semanas. Para el tratamiento de la demodicosis causada por Demodex spp., sarna sarcóptica e infestaciones por ácaros Otodectes spp. en perros. El tiempo del efecto es de 12 semanas de protección contra pulgas y garrapatas. Empieza a eliminar pulgas a partir de las 2 horas. Empieza a eliminar garrapatas a partir de las 4 horas.",
+        "descripcion": "La pastilla Bravecto sirve para el control de infestaciones por garrapatas y pulgas en perros con actividad inmediata y de larga duracion durante 12 semanas. Para el tratamiento de la demodicosis causada por Demodex spp., sarna sarcoptica e infestaciones por acaros Otodectes spp. en perros. El tiempo del efecto es de 12 semanas de proteccion contra pulgas y garrapatas. Empieza a eliminar pulgas a partir de las 2 horas. Empieza a eliminar garrapatas a partir de las 4 horas.",
         "imagen": "img/brav3"
       },
       {
@@ -77,7 +77,7 @@
         "nombre": "Pastilla anti pulgas y garrapatas Bravecto 1400 Mg 40-56 Kg",
         "categoria": "Antipulgas y garrapatas",
         "precio": 38400,
-        "descripcion": "La pastilla Bravecto sirve para el control de infestaciones por garrapatas y pulgas en perros con actividad inmediata y de larga duración durante 12 semanas. Para el tratamiento de la demodicosis causada por Demodex spp., sarna sarcóptica e infestaciones por ácaros Otodectes spp. en perros. El tiempo del efecto es de 12 semanas de protección contra pulgas y garrapatas. Empieza a eliminar pulgas a partir de las 2 horas. Empieza a eliminar garrapatas a partir de las 4 horas.",
+        "descripcion": "La pastilla Bravecto sirve para el control de infestaciones por garrapatas y pulgas en perros con actividad inmediata y de larga duracion durante 12 semanas. Para el tratamiento de la demodicosis causada por Demodex spp., sarna sarcoptica e infestaciones por acaros Otodectes spp. en perros. El tiempo del efecto es de 12 semanas de proteccion contra pulgas y garrapatas. Empieza a eliminar pulgas a partir de las 2 horas. Empieza a eliminar garrapatas a partir de las 4 horas.",
         "imagen": "img/brav2"
       }
     ]
